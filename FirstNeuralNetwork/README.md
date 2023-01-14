@@ -1,4 +1,4 @@
-** My First Neural Network with TensorFlow's Sequential API **<br>
+**My First Neural Network with TensorFlow's Sequential API**<br>
 
 This directory contains my first neural network project, which uses TensorFlow's Sequential API to train a model on the MNIST dataset. The goal of this project is to classify handwritten digits using a deep learning model.<br>
 
