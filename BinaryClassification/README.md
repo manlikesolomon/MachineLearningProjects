@@ -1,5 +1,7 @@
 **Binary Classification with TensorFlow's Sequential API**<br>
 This directory contains a binary classification project using TensorFlow's Sequential API. The goal of this project is to classify houses as cheap or expensive based on a number of features using a deep learning model.<br>
+
+
 **Getting Started**<br>
 To run the code, you will need to have the following dependencies installed:
 - Numpy
