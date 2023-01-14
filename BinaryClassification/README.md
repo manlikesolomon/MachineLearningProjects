@@ -7,8 +7,8 @@ To run the code, you will need to have the following dependencies installed:
 - Seaborn
 - Matplotlib <br>
 
-You can install these dependencies by running the following command:
-*pip install tensorflow numpy pandas matplotlib seaborn* <br>
+You can install these dependencies by running the following command:<br>
+`pip install tensorflow numpy pandas matplotlib seaborn` <br>
 
 **Data**<br>
 The california housing dataset was used to train and evaluate or model. A link to import this dataset was provided in the notebook. <br>
