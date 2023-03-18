@@ -12,5 +12,7 @@ To run the projects in this repository, you will need the following: <br>
 **Projects**<br>
 1. Logistic Regression <br>
 The objective of this project is to implement a binary logistic regression model for classification of images from the MNIST dataset. The model is trained using stochastic gradient descent and achieves an accuracy of over 80%. <br>
+2. Multilayer perceptron <br>
+The objective of this project is to implement a multilayer perceptron (MLP) for classification of images from the MNIST dataset. The MLP consists of two layers with ReLU activation functions and achieves an accuracy of over 98%.
 
 
